@@ -11,13 +11,12 @@
 
 
 ## 👨‍💻Project
-### Spotify Web API 활용 음악 추천 웹사이트 제작🎵
+>### Spotify Web API 활용 음악 추천 웹사이트 제작🎵
 - 팀원 5명, PM 1명
 - OAuth 2.0 인증 연동
 - 최근 들은 음악/앨범, 기분, 분위기에 따른 플레이리스트 생성 
 - 프로필 설정/ 팔로우 기능
 - 기술 스택: React, JavaScript, CSS, PHP, SQL
----
 
 >### 아두이노 피아노 제작🎹
 - 팀원 2명
