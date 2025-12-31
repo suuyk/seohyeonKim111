@@ -9,7 +9,8 @@
 * Frontend: CSS, React
 * Backend: PHP
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={seoheyonKim111(string)})](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoheyonKim111)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 👨‍💻Project
 >### Spotify Web API 활용 음악 추천 웹사이트 제작
